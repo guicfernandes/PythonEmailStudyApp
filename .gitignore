@@ -1,0 +1,14 @@
+**/__pycache__
+**/.pytest_cache
+.coverage
+**/venv
+.idea.vscode/settings.json
+.env
+**/__pycache__/
+**/__pytest_cache/**
+**/.pytest_cache/**
+Pipfile*
+**/*.ipynb
+.cache/**
+.coveragerc
+coverage.xml
